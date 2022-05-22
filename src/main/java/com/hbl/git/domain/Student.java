@@ -3,6 +3,7 @@ package com.hbl.git.domain;
 public class Student {
     private String name;
     private Integer age;
+    private String classname;
 
     public Student(String name, Integer age) {
         this.name = name;
