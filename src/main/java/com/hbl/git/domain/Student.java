@@ -4,6 +4,7 @@ public class Student {
     private String name;
     private Integer age;
     private String classname;
+    int i = 1;
 
     public Student(String name, Integer age) {
         this.name = name;
